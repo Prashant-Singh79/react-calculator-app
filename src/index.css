@@ -18,6 +18,7 @@ body {
 .screen {
   height: 4rem;
   margin-bottom: 4rem;
+  /* background-color: red; */
 }
 
 .wrapper {
